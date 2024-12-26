@@ -1,4 +1,4 @@
-/* (11)write a program where user can keep entering no till they enter a multiple of 10 using while loop*/
+/* write a program where user can keep entering no till they enter a multiple of 10 using while loop*/
 #include <iostream>
 using namespace std;
 int main(){
