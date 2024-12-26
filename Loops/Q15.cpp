@@ -1,4 +1,4 @@
-/* (14) check if a no is prime or not using for loop*/   
+/*  check if a no is prime or not using for loop*/   
 #include <iostream>
 using namespace std;
 int main(){
