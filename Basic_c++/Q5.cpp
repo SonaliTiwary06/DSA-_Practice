@@ -1,4 +1,4 @@
-/* (5)print sum of odd digits of no 10829 using while loop*/
+/* print sum of odd digits of no 10829 using while loop*/
 
 #include<iostream>
 using namespace std;
