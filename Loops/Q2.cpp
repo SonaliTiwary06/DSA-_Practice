@@ -1,4 +1,4 @@
-/* (2)print numbers from 1 to N*/
+/* print numbers from 1 to N*/
 #include <iostream>
 using namespace std;
 int main(){
