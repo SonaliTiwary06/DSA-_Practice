@@ -1,4 +1,4 @@
-/* (6) print the digits of no in reverse using while loop*/
+/*  print the digits of no in reverse using while loop*/
 #include <iostream>
 using namespace std;
 int main(){
