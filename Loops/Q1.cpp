@@ -1,4 +1,4 @@
-/* (1)print INDIA 5 times*/
+/* print INDIA 5 times*/
 #include <iostream>
 using namespace std;
 int main(){
