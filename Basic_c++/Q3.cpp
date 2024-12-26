@@ -1,4 +1,4 @@
-/* (3) Build a Simple Interest Calculator*/
+/*  Build a Simple Interest Calculator*/
 #include <iostream>
 using namespace std;
 int main()
