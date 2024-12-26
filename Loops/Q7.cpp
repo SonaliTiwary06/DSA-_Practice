@@ -1,4 +1,4 @@
-/* (7) print sum of digits of no 10829 using while loop*/
+/*  print sum of digits of no 10829 using while loop*/
 #include<iostream>
 using namespace std;
 int main(){
