@@ -1,4 +1,4 @@
-/* (10) reverse the no and print the result*/
+/*  reverse the no and print the result*/
 #include <iostream>
 using namespace std;
 
