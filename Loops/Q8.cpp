@@ -1,4 +1,4 @@
-/* (8) print sum of digits of no using while loop*/
+/*  print sum of digits of no using while loop*/
 #include <iostream>
 using namespace std;
 int main(){
