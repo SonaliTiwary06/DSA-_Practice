@@ -1,4 +1,4 @@
-/* (12)WAP where user can keep entering numbers till they enter multiple of 10 using for loop */
+/* WAP where user can keep entering numbers till they enter multiple of 10 using for loop */
 #include <iostream>
 using namespace std;
 
