@@ -1,4 +1,4 @@
-/*(3) print sum of first N natural no*/
+/* print sum of first N natural no*/
 #include <iostream>
 using namespace std;
 int main(){
