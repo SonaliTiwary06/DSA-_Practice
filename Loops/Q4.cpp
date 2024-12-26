@@ -1,4 +1,4 @@
-/* (4) print square pattern using for loop     * * * *
+/*  print square pattern using for loop     * * * *
                                                * * * *
                                                * * * *
                                                * * * *   */
