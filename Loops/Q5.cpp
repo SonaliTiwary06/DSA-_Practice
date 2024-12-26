@@ -1,4 +1,4 @@
-/* (5)print no from N to 1 using for loop*/
+/* print no from N to 1 using for loop*/
 #include <iostream>
 using namespace std;
 
