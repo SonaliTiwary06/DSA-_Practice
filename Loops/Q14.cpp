@@ -1,4 +1,4 @@
-/* (13) WAP to show numbers entered by user except multiple of 10 usinh do-while loop*/
+/*  WAP to show numbers entered by user except multiple of 10 usinh do-while loop*/
 #include <iostream>
 using namespace std;
 int main(){
