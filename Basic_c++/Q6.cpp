@@ -1,4 +1,4 @@
-/* (6)print sum of odd digits of no entered by user using while loop*/
+/* print sum of odd digits of no entered by user using while loop*/
 #include<iostream>
 using namespace std;
 int main(){
