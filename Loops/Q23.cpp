@@ -1,4 +1,4 @@
-/* (17)WAP to input a number and check whether the number is an Armstrong
+/* WAP to input a number and check whether the number is an Armstrong
 number or not using do-while loop.*/
 #include <iostream>
 using namespace std;
