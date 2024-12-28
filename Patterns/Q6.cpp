@@ -1,4 +1,4 @@
-/* print the half pyramid pattern  1
+/*    print the half pyramid pattern  1
                                       1 2
                                       1 2 3
                                       1 2 3 4 */
