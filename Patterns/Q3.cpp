@@ -1,4 +1,4 @@
-/* print star pattern *
+/*    print star pattern *
                          * *
                          * * *
                          * * * *    */
