@@ -1,4 +1,7 @@
-/*  print a same pattern above for n rows and n column*/ 
+/*  print a same pattern  1 1 1 1
+                          2 2 2 2
+                          3 3 3 3
+                          4 4 4 4 for n rows and n column*/ 
 #include <iostream>
 using namespace std;
 int main(){
