@@ -1,0 +1,1 @@
+/*   WAF to print factorial of number n*/
